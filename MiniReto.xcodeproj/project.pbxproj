@@ -6,11 +6,24 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E3613AFD1CACA00C008BA786 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "../Mini reto.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E3613AF51CAC9FEC008BA786 = {
 			isa = PBXGroup;
 			children = (
+				E3613AFC1CAC9FF3008BA786 /* Mini reto Semana 2 */,
 			);
+			sourceTree = "<group>";
+		};
+		E3613AFC1CAC9FF3008BA786 /* Mini reto Semana 2 */ = {
+			isa = PBXGroup;
+			children = (
+				E3613AFD1CACA00C008BA786 /* Mini reto.playground */,
+			);
+			name = "Mini reto Semana 2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
